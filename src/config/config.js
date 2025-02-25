@@ -1,3 +1,3 @@
-const referralCode = "0xbec93b1c";
+const referralCode = "YOUR_REFF";
 
 module.exports = referralCode;
